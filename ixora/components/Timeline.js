@@ -48,7 +48,7 @@ const Timeline = () => {
             <Bubble title={'Юни 2021'} subtitle={'Проектиране и регулация'} opacity={0.8} gradientDone={true}></Bubble>
             <Bubble title={'Юни 2022'} subtitle={'РС, строителна площадка и първа копка'} opacity={0.8} gradientDone={true}></Bubble>
             <Bubble title={'Март 2023'} subtitle={'Груб строеж завършен Акт 14'} opacity={0.8} gradientDone={true}></Bubble>
-            <Bubble title={'Май 2025'} subtitle={'Въвеждане в експлоатация Акт 16'} opacity={1} gradientDone={false}></Bubble>
+            <Bubble title={'Март 2026'} subtitle={'Въвеждане в експлоатация Акт 16'} opacity={1} gradientDone={false}></Bubble>
 
         </motion.div>
 
