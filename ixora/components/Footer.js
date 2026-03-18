@@ -11,7 +11,7 @@ const Footer = ({toTopHandle}) => {
 
             <div className='md:text-center'>
               <div className='text-orange-500 font-mono text-xl'>Ixora Luxury Residence</div>
-              <div className='p-3 text-white font-mono text-sm'> Ixora Luxury Residence е бутикова сграда със спа център и финтес, ситуирана в подножието на Витоша</div>
+              <div className='p-3 text-white font-mono text-sm'> Ixora Luxury Residence е бутикова сграда със спа център и фитнес, ситуирана в подножието на Витоша</div>
             </div>
             <div className='md:text-center'>
               <div className='text-orange-500 font-mono text-xl'>Контакти</div>

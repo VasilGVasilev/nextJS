@@ -159,9 +159,7 @@ const ForBuilding = () => {
                                         Сигурност
                                     </p>
                                     <li className="text-sm sm:text-lg text-gray-700 font-bold text-justify">
-                                        Ограда. Контролиран достъп с чип и
-                                        разпознаване на автомобилен номер. 24/7
-                                        жива охрана.{" "}
+                                        Ограда. Контролиран достъп с чип.{" "}
                                     </li>
                                     <br />
                                 </motion.div>
@@ -184,7 +182,7 @@ const ForBuilding = () => {
                                         Удобства
                                     </p>
                                     <li className="text-sm  text-gray-700 font-bold text-justify">
-                                        Самостоятелен фитнес с уреди TECHNOGYM.
+                                        Самостоятелен фитнес с уреди Active Gym.
                                         Спа център с джакузи, парна баня и
                                         сауна, оборудвани с топли лежанки.{" "}
                                     </li>
