@@ -72,7 +72,7 @@ export default function ThirdFloor() {
                         <div className={`absolute apartmentTwelve h-full w-full z-10 ${available}`} onClick={() => updateInfo(12, 200.10, 155.10)}></div>
                         <div className={`absolute apartmentEleven h-full w-full z-10 ${sold}`}></div>
                         <div className={`absolute apartmentTen h-full w-full z-10 ${reserved} `} ></div>
-                        <div className={`absolute apartmentNine h-full w-full z-10 ${available} `} onClick={() => updateInfo(9, 100.76, 78.10)}></div>
+                        <div className={`absolute apartmentNine h-full w-full z-10 ${sold} `}></div>
 
 
                         {/* <img src="/plans/third-floor.webp" alt="Ixora Plan" className="relative" /> */}
