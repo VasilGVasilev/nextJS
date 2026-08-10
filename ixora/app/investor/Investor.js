@@ -261,16 +261,23 @@ export default function Investor() {
                                     }}
                                 >
                                     {/* Conatiner for name and description */}
-                                    <div className="px-10  lg:pb-10">
-                                        <div className="py-5 bg-ixora-dark text-ixora-orange text-center text-xl font-mono">
+                                    <Link
+                                        href={`https://montierrabg.com/`}
+                                        className="px-10 lg:pb-10"
+                                    >
+                                        <div className="flex flex-row items-center justify-center py-5 bg-ixora-dark text-ixora-orange text-center text-xl font-mono">
                                             <span>
                                                 Montierra Luxury Residence
                                             </span>
+                                            <HiExternalLink
+                                                size={24}
+                                                className=""
+                                            />
                                         </div>
                                         <div className="pb-5 bg-ixora-dark text-gray-300 text-justify font-medium font-mono lg:px-80">
                                             В очакване на разрешение за строеж - Montierra Luxury Residence – бутиков жилищен проект с луксозни апартаменти в Драгалевци, в полите на Витоша. Модерна архитектура, тишина и природа, съчетани с бърз достъп до града. Дом за хора с усет към качеството и детайла.
                                         </div>
-                                    </div>
+                                    </Link>
                                 </motion.div>
 
                                 <div className="bg-ixora-dark px-5 w-full h-full flex-col justify-center space-y-5">
